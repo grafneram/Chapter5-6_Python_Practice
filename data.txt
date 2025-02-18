@@ -1,0 +1,1 @@
+There can be no more than 4 football team players on the field at once. 2 players on offense and 2 players on defense can be on the field at one time.
